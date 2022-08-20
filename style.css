@@ -1,0 +1,27 @@
+.Conatiner {
+    max-width: 500px;
+    margin: auto;
+    background-color: darkslategray;
+    padding: 30px;
+    color: white;
+}
+
+.Conatiner button {
+    margin: 20px;
+    justify-content: center;
+    color: white;
+    background-color: indigo;
+    border: 0px;
+    padding: 15px;
+    border-radius: 5px;
+}
+
+#btn {
+    justify-content: center;
+    text-align: center;
+}
+
+#Answers {
+    justify-content: center;
+    text-align: center;
+}
